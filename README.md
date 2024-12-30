@@ -1,4 +1,4 @@
-# Clinical-Healthcare-Data-Analysis-and-Insights---Power-BI
+# Clinical-Healthcare-Data-Analysis-and-Insights Microsoft Power-BI
 The healthcare industry generates massive amounts of data daily, offering invaluable opportunities for healthcare providers and policymakers to enhance patient care, optimize resource allocation, and control healthcare costs. This project focuses on analyzing a comprehensive healthcare dataset, which includes medical examinations, hospitalization records, and patient profiles.
 
 The goal is to extract meaningful insights into patient health trends, medical histories, and associated healthcare costs. By rigorously cleaning, transforming, and exploring the data, we aim to uncover patterns and relationships between key health metrics. This analysis will help identify trends in healthcare utilization, disease prevalence, and cost variations across different patient demographics.
